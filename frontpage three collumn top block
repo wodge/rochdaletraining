@@ -1,0 +1,40 @@
+<div class="features animate-fadeInUp">
+<div class="feature">
+<div class="employer"><img alt="Employers Information Link" class="employer__img" src="/sites/default/files/images/EmployersInfoBox.webp" />
+<div class="employer__overlay image__overlay--primary">
+<div class="employer__title">Employers</div>
+
+<p class="employer__description"><a class="button" href="/employers">Click for more...</a></p>
+</div>
+</div>
+
+<p class="text-align-center"><a class="button font-3" href="/employers">Employers Click Here</a></p>
+</div>
+<!--/feature -->
+
+<div class="feature">
+<div class="employer"><img alt="Apprenticeships Information" class="employer__img" src="/sites/default/files/images/apprenticeships.webp" />
+<div class="employer__overlay image__overlay--primary">
+<div class="employer__title">Apprenticeships</div>
+
+<p class="employer__description"><a class="button" href="/apprenticeships">Click for more...</a></p>
+</div>
+</div>
+
+<p class="text-align-center"><a class="button font-3" href="/apprenticeships">Apprenticeships Click Here</a></p>
+</div>
+<!--/feature -->
+
+<div class="feature">
+<div class="employer"><img alt="Training Information Link" class="employer__img" src="/sites/default/files/images/functionalskills.webp" />
+<div class="employer__overlay image__overlay--primary">
+<div class="employer__title">Training</div>
+
+<p class="employer__description"><a class="button" href="/training-offerings">Click for more...</a></p>
+</div>
+</div>
+
+<p class="text-align-center"><a class="button font-3" href="/training-offerings">All Training Click Here</a></p>
+</div>
+<!--/feature --></div>
+<!--/features -->
