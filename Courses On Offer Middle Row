@@ -1,0 +1,45 @@
+<div class="features animate-fadeInUp">
+<div class="feature">
+<div class="employer"><img alt="HNC And HND Information Link" class="employer__img" src="/sites/default/files/images/HNC_HNDBox.webp" />
+<div class="employer__overlay image__overlay--primary">
+<div class="employer__title">HNC/HND</div>
+
+<p class="employer__description"><a class="button" href="/engineering-hnc-hnd">Click for more...</a></p>
+</div>
+</div>
+</div>
+<!--/feature -->
+
+<div class="feature">
+<div class="employer"><img alt="NVQ Training Information" class="employer__img" src="/sites/default/files/images/NVQBox.webp" />
+<div class="employer__overlay image__overlay--primary">
+<div class="employer__title">NVQ</div>
+
+<p class="employer__description"><a class="button" href="/nvq-training">Click for more...</a></p>
+</div>
+</div>
+</div>
+<!--/feature -->
+
+<div class="feature">
+<div class="employer"><img alt="Acorn Training Information Link" class="employer__img" src="/sites/default/files/images/Acorn.webp" />
+<div class="employer__overlay image__overlay--primary">
+<div class="employer__title">Acorn</div>
+
+<p class="employer__description"><a class="button" href="/acorn-training">Click for more...</a></p>
+</div>
+</div>
+</div>
+<!--/feature -->
+
+<div class="feature">
+<div class="employer"><img alt="Teacher Training Information Link" class="employer__img" src="/sites/default/files/images/IntroductiontoTeachingOption.webp" />
+<div class="employer__overlay image__overlay--primary">
+<div class="employer__title">Teaching</div>
+
+<p class="employer__description"><a class="button" href="/introduction-to-teaching">Click for more...</a></p>
+</div>
+</div>
+</div>
+<!--/feature --></div>
+<!--/features -->
