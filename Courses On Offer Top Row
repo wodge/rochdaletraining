@@ -1,0 +1,34 @@
+<div class="features animate-fadeInUp">
+<div class="feature">
+<div class="employer"><img alt="Traineeships Information Link" class="employer__img" src="/sites/default/files/images/traineeships.jpg" />
+<div class="employer__overlay image__overlay--primary">
+<div class="employer__title">Traineeships</div>
+
+<p class="employer__description"><a class="button" href="/traineeships">Click for more...</a></p>
+</div>
+</div>
+</div>
+<!--/feature -->
+
+<div class="feature">
+<div class="employer"><img alt="Functional Skills Information" class="employer__img" src="/sites/default/files/images/functionalskills.webp" />
+<div class="employer__overlay image__overlay--primary">
+<div class="employer__title">Functional Skills</div>
+
+<p class="employer__description"><a class="button" href="/functional-skills-courses">Click for more...</a></p>
+</div>
+</div>
+</div>
+<!--/feature -->
+
+<div class="feature">
+<div class="employer"><img alt="Apprenticeships Information Link" class="employer__img" src="/sites/default/files/images/ApprenticeshipsBox.webp" />
+<div class="employer__overlay image__overlay--primary">
+<div class="employer__title">Apprenticeships</div>
+
+<p class="employer__description"><a class="button" href="/apprenticeships">Click for more...</a></p>
+</div>
+</div>
+</div>
+<!--/feature --></div>
+<!--/feature --><!--/features -->
